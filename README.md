@@ -1,16 +1,33 @@
-## Hi there 👋
+**# Hi there, I'm Maharth Tiwari! 👋
 
-<!--
-**maharth07/maharth07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring AI/ML Engineer | Batch of 2025 @ VIT Bhopal
 
-Here are some ideas to get you started:
+I am a Computer Science student specializing in **Artificial Intelligence and Machine Learning**. I enjoy bridging the gap between complex algorithms and real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+* **University:** VIT Bhopal University
+* **Degree:** B.Tech in Computer Science & Engineering
+* **Specialization:** AI & Machine Learning
+* **Graduation Year:** 2029
+
+---
+
+
+
+### 🔭 Current Projects & Interests
+- 🤖 **Deep Learning:** Exploring Neural Network architectures and optimization.
+- 📈 **Data Analysis:** Turning raw data into actionable insights.
+- 🌱 **Learning:** Currently diving deeper into Large Language Models (LLMs).
+- 💬 **Ask me about:** Why $y = mx + b$ is the most important equation in my life.
+
+---
+
+### 📫 Let's Connect
+* maharth.25bai10291@vitbhopal.ac.in
+* HackerRank-https://www.hackerrank.com/profile/maharthtiwari39
+
+
+---
+*“In God we trust, all others must bring data.” – W. Edwards Deming***
