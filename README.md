@@ -20,7 +20,6 @@ I am a Computer Science student specializing in **Artificial Intelligence and Ma
 - 🤖 **Deep Learning:** Exploring Neural Network architectures and optimization.
 - 📈 **Data Analysis:** Turning raw data into actionable insights.
 - 🌱 **Learning:** Currently diving deeper into Large Language Models (LLMs).
-- 💬 **Ask me about:** Why $y = mx + b$ is the most important equation in my life.
 
 ---
 
